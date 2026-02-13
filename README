@@ -1,3 +1,2 @@
-1.a'da'd
-2.
-3.
+fpga_cnn is the FPGA simulation file for Vitis HLS.
+studentspro and teacherpro are training scripts implemented in PyTorch.

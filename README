@@ -1,2 +1,2 @@
-fpga_cnn is the FPGA simulation file for Vitis HLS.
-studentspro and teacherpro are training scripts implemented in PyTorch.
+1.fpga_cnn is the FPGA simulation file for Vitis HLS.
+2.studentspro and teacherpro are training scripts implemented in PyTorch.
